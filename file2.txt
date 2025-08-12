@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>S3 Demo</title>
+    </head>
+    <body>
+        <h1>Welcome! This is a Static Page</h1>
+        <h1>Images are in s3 bucket</h1>
+    </body>
+    <img src="images/1.jpg" width=600/>
+    <img src="images/2.jpg" width=600/>
+    <img src="images/3.jpg" width=600/>
+</html>
